@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/semaxio/HW2/static/css/main.b1f7d19b.css",
-    "main.js": "/semaxio/HW2/static/js/main.4d298404.js",
-    "static/js/787.66cb4309.chunk.js": "/semaxio/HW2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/semaxio/HW2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/semaxio/HW2/index.html",
-    "main.b1f7d19b.css.map": "/semaxio/HW2/static/css/main.b1f7d19b.css.map",
-    "main.4d298404.js.map": "/semaxio/HW2/static/js/main.4d298404.js.map",
-    "787.66cb4309.chunk.js.map": "/semaxio/HW2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/HW2/static/css/main.b1f7d19b.css",
+    "main.js": "/HW2/static/js/main.cdcc3c51.js",
+    "static/js/787.66cb4309.chunk.js": "/HW2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/HW2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/HW2/index.html",
+    "main.b1f7d19b.css.map": "/HW2/static/css/main.b1f7d19b.css.map",
+    "main.cdcc3c51.js.map": "/HW2/static/js/main.cdcc3c51.js.map",
+    "787.66cb4309.chunk.js.map": "/HW2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f7d19b.css",
-    "static/js/main.4d298404.js"
+    "static/js/main.cdcc3c51.js"
   ]
 }
